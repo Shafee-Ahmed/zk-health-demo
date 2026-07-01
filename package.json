@@ -3,19 +3,37 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@digitalbazaar/did-method-key": "^5.3.0",
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^13.5.0",
+    "@transmute/did-key-ed25519": "^0.3.0-unstable.10",
+    "assert": "^2.1.0",
+    "axios": "^1.13.6",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.1",
+    "ethers": "^5.7.2",
+    "form-data": "^4.0.5",
+    "https-browserify": "^1.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-scripts": "5.0.1",
+    "snarkjs": "^0.7.6",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.4",
+    "util": "^0.12.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -35,5 +53,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0"
   }
 }

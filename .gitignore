@@ -4,10 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.env
 # testing
 /coverage
 
+dist/
 # production
 /build
 
@@ -21,3 +22,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.vscode/
+*.zkey
+*.ptau
+*.r1cs
+*.wasm
+*.sym
