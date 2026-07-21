@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-07-12T06:38:11.097Z",
+  "query": {
+    "minAge": 30,
+    "maxAge": 70,
+    "allowedDiagnoses": [
+      59621,
+      16096,
+      40055,
+      22429
+    ],
+    "labMin": 70,
+    "labMax": 120
+  },
+  "patients": [
+    {
+      "id": "patient_1",
+      "age": 61,
+      "diagnosis": 16096,
+      "lab": 94,
+      "timeSeconds": 0.34
+    },
+    {
+      "id": "patient_2",
+      "age": 14,
+      "diagnosis": 44481,
+      "lab": 100,
+      "timeSeconds": 0.05
+    },
+    {
+      "id": "patient_3",
+      "age": 4,
+      "diagnosis": 19566,
+      "lab": 100,
+      "timeSeconds": 0.05
+    },
+    {
+      "id": "patient_4",
+      "age": 26,
+      "diagnosis": 10509,
+      "lab": 100,
+      "timeSeconds": 0.04
+    },
+    {
+      "id": "patient_5",
+      "age": 58,
+      "diagnosis": 40055,
+      "lab": 74,
+      "timeSeconds": 0.05
+    },
+    {
+      "id": "patient_6",
+      "age": 82,
+      "diagnosis": 22429,
+      "lab": 88,
+      "timeSeconds": 0.04
+    },
+    {
+      "id": "patient_11",
+      "age": 68,
+      "diagnosis": 74400,
+      "lab": 100,
+      "timeSeconds": 0.04
+    },
+    {
+      "id": "patient_12",
+      "age": 31,
+      "diagnosis": 10553,
+      "lab": 100,
+      "timeSeconds": 0.05
+    },
+    {
+      "id": "patient_13",
+      "age": 82,
+      "diagnosis": 59621,
+      "lab": 65,
+      "timeSeconds": 0.06
+    },
+    {
+      "id": "patient_14",
+      "age": 61,
+      "diagnosis": 59621,
+      "lab": 71,
+      "timeSeconds": 0.03
+    },
+    {
+      "id": "patient_15",
+      "age": 3,
+      "diagnosis": 24192,
+      "lab": 100,
+      "timeSeconds": 0.05
+    },
+    {
+      "id": "patient_20",
+      "age": 16,
+      "diagnosis": 65363,
+      "lab": 100,
+      "timeSeconds": 0.04
+    },
+    {
+      "id": "patient_21",
+      "age": 49,
+      "diagnosis": 59621,
+      "lab": 100,
+      "timeSeconds": 0.05
+    },
+    {
+      "id": "patient_22",
+      "age": 61,
+      "diagnosis": 41042,
+      "lab": 88,
+      "timeSeconds": 0.04
+    },
+    {
+      "id": "patient_23",
+      "age": 58,
+      "diagnosis": 12861,
+      "lab": 100,
+      "timeSeconds": 0.03
+    },
+    {
+      "id": "patient_24",
+      "age": 9,
+      "diagnosis": 23367,
+      "lab": 100,
+      "timeSeconds": 0.05
+    }
+  ],
+  "summary": {
+    "count": 16,
+    "minSeconds": 0.03,
+    "maxSeconds": 0.34,
+    "avgSeconds": 0.06
+  }
+}

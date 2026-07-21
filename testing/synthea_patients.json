@@ -1,0 +1,130 @@
+[
+  {
+    "id": "patient_1",
+    "file": "Adolfo777_Goyette777_4d477bfd-6fa4-26da-5928-f1d19a0ad8ab.json",
+    "age": 61,
+    "diagnosis": 16096,
+    "lab": 94,
+    "gender": "male"
+  },
+  {
+    "id": "patient_2",
+    "file": "Candyce305_Maggio310_6675434c-1d80-6978-c93b-fc4e396af8d1.json",
+    "age": 14,
+    "diagnosis": 44481,
+    "lab": 100,
+    "gender": "female"
+  },
+  {
+    "id": "patient_3",
+    "file": "Carroll471_Jakubowski832_31dd311a-c2bc-131d-242f-49f6aa6a546c.json",
+    "age": 4,
+    "diagnosis": 19566,
+    "lab": 100,
+    "gender": "female"
+  },
+  {
+    "id": "patient_4",
+    "file": "Dion244_Blick895_619c5fd4-0892-cb79-1526-a270377126f2.json",
+    "age": 26,
+    "diagnosis": 10509,
+    "lab": 100,
+    "gender": "male"
+  },
+  {
+    "id": "patient_5",
+    "file": "Floyd420_Mayert710_15293c86-1aa3-6323-511c-7dd6b85b2b2f.json",
+    "age": 58,
+    "diagnosis": 40055,
+    "lab": 74,
+    "gender": "male"
+  },
+  {
+    "id": "patient_6",
+    "file": "Hoa730_Rolfson709_cc16da26-c9f0-8206-1e1a-97d65b3624af.json",
+    "age": 82,
+    "diagnosis": 22429,
+    "lab": 88,
+    "gender": "female"
+  },
+  {
+    "id": "patient_11",
+    "file": "Kevin729_Monahan736_4342aa66-e63d-e867-98a1-ff3e735a9329.json",
+    "age": 68,
+    "diagnosis": 74400,
+    "lab": 100,
+    "gender": "male"
+  },
+  {
+    "id": "patient_12",
+    "file": "Kyle55_Blanda868_49c72ca4-e85b-be16-c075-eee2f95e1775.json",
+    "age": 31,
+    "diagnosis": 10553,
+    "lab": 100,
+    "gender": "male"
+  },
+  {
+    "id": "patient_13",
+    "file": "Magaly973_Dickens475_bec4d8e6-7bd0-dc8a-7339-c36066c55115.json",
+    "age": 82,
+    "diagnosis": 59621,
+    "lab": 65,
+    "gender": "female"
+  },
+  {
+    "id": "patient_14",
+    "file": "Marquitta546_Stehr398_8a7f7b1b-7ad3-600e-8b08-0399ebd3c297.json",
+    "age": 61,
+    "diagnosis": 59621,
+    "lab": 71,
+    "gender": "female"
+  },
+  {
+    "id": "patient_15",
+    "file": "Pam996_Kirlin939_95d4fbc2-26a8-5b64-f2b0-73d1fd344f54.json",
+    "age": 3,
+    "diagnosis": 24192,
+    "lab": 100,
+    "gender": "female"
+  },
+  {
+    "id": "patient_20",
+    "file": "Richard937_Cruickshank494_2de7d2d8-e8e6-ad23-fc2e-fd2ad1d133c9.json",
+    "age": 16,
+    "diagnosis": 65363,
+    "lab": 100,
+    "gender": "male"
+  },
+  {
+    "id": "patient_21",
+    "file": "Sharla853_Strosin214_97dcd5e0-4904-4f06-ab92-abb6ffb76d1f.json",
+    "age": 49,
+    "diagnosis": 59621,
+    "lab": 100,
+    "gender": "female"
+  },
+  {
+    "id": "patient_22",
+    "file": "Sharon747_Bailey598_9d8e356b-8943-345b-3595-bf73dbad030a.json",
+    "age": 61,
+    "diagnosis": 41042,
+    "lab": 88,
+    "gender": "female"
+  },
+  {
+    "id": "patient_23",
+    "file": "Toney527_Mills423_a8977af1-6fb1-aa33-4ef0-49144e5606b1.json",
+    "age": 58,
+    "diagnosis": 12861,
+    "lab": 100,
+    "gender": "male"
+  },
+  {
+    "id": "patient_24",
+    "file": "Vanita165_Steuber698_a1fd86b0-7289-9212-09c1-e71939687fe4.json",
+    "age": 9,
+    "diagnosis": 23367,
+    "lab": 100,
+    "gender": "female"
+  }
+]
